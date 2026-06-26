@@ -37,12 +37,15 @@ Risposta	Significato
 Sì	Il controllo è pienamente implementato
 Parziale	Il controllo esiste ma presenta lacune o non è applicato sistematicamente
 No	Il controllo non è implementato
-N/A	Il controllo non è applicabile al contesto aziendale
+N/A	Il controllo non è applicabile al contesto aziendale  
+
+---
+Versione:	v1.3  
+
+Anno:	2026  
+
+Autori:	Lorenzo Corona, Federico Bellati
 
 
-Versione	v1.3
-Anno	2026
-Autori	Lorenzo Corona, Federico Bellati
-
-Riferimenti normativi
+Riferimenti normativi: 
 ISO/IEC 27001:2022
